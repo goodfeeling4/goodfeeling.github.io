@@ -36,3 +36,11 @@ document.getElementById("date").innerHTML = formattedDate;
 let w = document.getElementById('welcome')
 let h = document.getElementById('happy')
 
+function show(){
+    if(ye === 125 & MO === 1 & d === 31 ){
+        w.remove();
+
+    }
+
+}
+show();
