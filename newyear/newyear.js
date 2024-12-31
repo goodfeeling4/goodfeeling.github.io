@@ -37,7 +37,7 @@ let w = document.getElementById('welcome')
 let h = document.getElementById('happy')
 
 function show(){
-    if(ye === 124 & MO === 11 & d === 31 ){
+    if(ye === 124 & MO === 11 & d === 316 ){
         // w.remove();
         h.remove();
         document.getElementById("w").innerHTML = "welcome"
